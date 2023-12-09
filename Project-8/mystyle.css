@@ -92,3 +92,7 @@
     .imagemaps{
         text-align: center;
       }
+    .imagess{
+        display: flex;
+        justify-content: center;
+    }
