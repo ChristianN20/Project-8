@@ -1,0 +1,94 @@
+    #thumbs, #image {
+    width: 700px;
+    border:solid 1px 000;
+    text-align:center;
+    margin: 0 auto 0 auto;
+    color: #000;
+    background: #eee;
+    padding: 5px;
+    }
+    #thumbs {
+    margin-top: 10px;
+    }
+    #thumbs img {
+    border: solid 1px #000;
+    margin: 5px;
+    }
+    #image{
+    height:400px;
+    }
+    .instructions{
+    font-style:italic;
+    }
+    body{font-family:Arial,sans-serif; 
+        font-size: 14px;
+        background-color:rgb(255, 186, 186);
+        color:rgb(20, 20, 20 )
+        }
+    h1{ text-align: center;
+        font-family:Century,serif;
+        font-variant:small-caps}
+    h2{text-align:left;
+        font-family:Century,serif;
+        font-size:18px;
+    font-family:Georgia, 'Times New Roman', Times, serif}
+    h3{text-align:left;
+        font-style:italic;}
+    ul{font-variant: small-caps;
+    font-family:Georgia, 'Times New Roman', Times, serif}
+    .QA{font-weight:bolder;
+        font-size:15px; 
+        text-decoration:underline;}
+    a:link{color:red}
+    a:visited{color:rgb(209, 48, 142)}
+    a:hover{color:rgb(126, 0, 0)} 
+
+    #container{
+        width: 900px;
+        display:block;
+        margin-left:auto;
+        margin-right: auto;
+        background-color: rgb(27, 27, 27);
+        color: white;
+        
+    }
+    header{
+        width: 900px;
+        height:200px;
+        background-color: rgb(211, 111, 177);
+    
+    }
+    header img {
+        margin: 3px;
+    }
+    .navigation {
+        display: flex;
+    }
+    .navigation li{
+        list-style: none;
+
+    }
+    .navigation li a{
+        margin: 4px;
+        padding:3px;
+        border: 1px solid rgb(116, 56, 96) ;
+        background-color: white;
+        color: rgb(116, 56, 96);
+        text-decoration: none;
+    }
+    .navigation li:hover {
+        border: 1px solid white;
+        color:white;
+        background-color:rgb(116, 56, 96);
+    }
+    section{
+        width: 900px;
+        background-image: url('Images/backimage.jpg');
+        background-repeat: repeat-y;
+    }
+    article{
+        width: 800px;
+    }
+    .imagemaps{
+        text-align: center;
+      }
