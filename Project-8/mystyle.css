@@ -39,9 +39,9 @@
     .QA{font-weight:bolder;
         font-size:15px; 
         text-decoration:underline;}
-    a:link{color:red}
+    a:link{color:rgb(91, 0, 0)}
     a:visited{color:rgb(209, 48, 142)}
-    a:hover{color:rgb(126, 0, 0)} 
+    a:hover{color:rgb(172, 0, 0)} 
 
     #container{
         width: 900px;

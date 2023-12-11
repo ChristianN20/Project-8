@@ -92,3 +92,6 @@
     article{
         width: 95%;
     }
+    .prints{
+        display: none;
+    }
